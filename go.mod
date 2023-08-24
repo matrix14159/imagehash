@@ -1,4 +1,4 @@
-module imagehash
+module github.com/matrix14159/imagehash
 
 go 1.18
 
